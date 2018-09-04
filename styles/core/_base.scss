@@ -21,19 +21,19 @@ figure {
 
 //placeholder input
 ::-webkit-input-placeholder { 
-  color: $mint-gray;
+  color: $dark;
   opacity: 1 !important;
 }
 ::-moz-placeholder {
-  color: $mint-gray;
+  color: $dark;
   opacity: 1 !important;
 }
 :-ms-input-placeholder { 
-  color: $mint-gray;
+  color: $dark;
   opacity: 1 !important;
 }
 :-moz-placeholder {
-  color: $mint-gray;
+  color: $dark;
   opacity: 1 !important;
 }
 
@@ -64,7 +64,7 @@ body {
     font-weight: 700;
   }
   h#{$i} {
-    color:$black-bis;
+    color:$dark;
     font-family: $subheading-font;
     font-weight: 300;
   }
