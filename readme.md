@@ -21,7 +21,7 @@ En el caso de integrar librerías externas usar la carpeta `/styles/lib` para su
 Dentro de `/styles/web-parts` se incluyen archivos scss para cada sección del sitio (header, footer, etc.). al agregar un nuevo archivo es 
 importante escribirlo en ingles y que sea descriptivo.
 
-Dentro de `/styles/web-parts` se incluyen archivos scss para cada componente del sitio. 
+Dentro de `/styles/components` se incluyen archivos scss para cada componente del sitio. 
 al agregar un nuevo archivo es importante escribirlo en ingles y que sea descriptivo.
 
 Por ejemplo para un componente Timeline crear el archivo _timeline.scss y después de eso importarlo en
